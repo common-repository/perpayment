@@ -1,0 +1,18 @@
+﻿.floatdiv{
+	width: 175px;
+    position: relative;
+    top: 25px;
+    z-index: 9000;
+	background-color:#eee;
+}
+.sidebanner{
+	position: absolute;
+    z-index: 1000;
+}
+.closeclick{
+	cursor:pointer;
+	margin-right:11px;
+	font-size:10px;
+	line-height: 18px;
+	text-align:right;
+}
